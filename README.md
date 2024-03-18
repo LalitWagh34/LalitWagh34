@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalitwagh34" alt="lalitwagh34" /></a> </p>
 
-- 🔭 I’m currently working on [Medium-Blog-WebSite](https://github.com/LalitWagh34/Medium-Blog-WebSite)
+- 🔭 I’m currently working on [Medium-Blog-WebSite](https://github.com/LalitWagh34/Medium-Blog-WebSite) and [AI-Platform](https://github.com/LalitWagh34/AI-PlatForm)
 
 - 🌱 I’m currently learning **Docker,MonoRepos etc.**
 
