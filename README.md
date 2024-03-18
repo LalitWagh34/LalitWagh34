@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **lalitwagh2804@gmail.com**
 
-- ⚡ Fun fact **I am a Introvert**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
