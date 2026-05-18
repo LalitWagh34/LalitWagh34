@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **onAI/ML projects, Full-Stack web apps, Research-based tools**
 
-- 📝 I regularly write articles on [https://medium.com/@lalitwagh2804](https://medium.com/@lalitwagh2804)
-
 - 💬 Ask me about **Node.js, React, TypeScript, MongoDB, Socket.IO, LLM integrations**
 
 - 📫 How to reach me **lalitwagh2804@gmail.com**
