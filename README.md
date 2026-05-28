@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **onAI/ML projects, Full-Stack web apps, Research-based tools**
 
-- 💬 Ask me about **Node.js, React, TypeScript, MongoDB, Socket.IO, LLM integrations**
+- 💬 Ask me about **Node.js, React, TypeScript, MongoDB, Socket.IO,RAG, LLM integrations**
 
 - 📫 How to reach me **lalitwagh2804@gmail.com**
 
