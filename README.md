@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **lalitwagh2804@gmail.com**
 
-- ⚡ Fun fact **I built a real-time browser-based AI screener for dyslexia, dysgraphia & dyscalculia!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
