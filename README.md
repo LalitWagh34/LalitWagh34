@@ -1,11 +1,13 @@
 
-# Hi, I'm Lalit Wagh 👋
+# Hey, I'm Lalit Wagh 👋
 
-Software Engineer · M.Tech Software Engineering @ MANIT Bhopal
+**Software Engineer | M.Tech Software Engineering @ MANIT Bhopal**
 
-I build full-stack applications, backend systems, and AI-powered products. I'm interested in system design, distributed systems, machine learning, and building software that's reliable and useful.
+I build full-stack applications, backend systems, and AI-powered products. My interests lie at the intersection of **Software Engineering, Systems, and AI**, particularly system design, distributed systems, machine learning, LLMs, and vector search.
 
 [Portfolio](https://lalitwagh-website.vercel.app/) · [Resume](https://drive.google.com/file/d/1e5SoCzWR_4HLxFmvEa7A1GlgtLX7A7Ef/view) · [LinkedIn](https://www.linkedin.com/in/lalit-wagh-dev/) · [LeetCode](https://leetcode.com/u/Lalit2804/)
+
+---
 
 ### Tech Stack
 
@@ -13,28 +15,24 @@ I build full-stack applications, backend systems, and AI-powered products. I'm i
 
 **Frontend:** React, Next.js, Tailwind CSS
 
-**Backend:** Node.js, Express, Fastify, Hono, WebSocket
+**Backend:** Node.js, Express, Fastify, Hono, WebSocket, REST APIs
 
-**Databases & Tools:** PostgreSQL, MongoDB, Redis, Prisma, BullMQ, Docker, Git
+**Databases & Messaging:** PostgreSQL, MongoDB, Redis, Prisma, BullMQ, Pub/Sub
 
-**AI & Systems:** Machine Learning, LLM Integration, Vector Search, HNSW
+**AI & Algorithms:** Machine Learning, LLM Integration, Vector Search, HNSW, DSA
 
-### Selected Projects
+**Tools & Infrastructure:** Git, GitHub, Docker, Vercel, Google Cloud
 
-| Project | Description |
-|---------|-------------|
-| [Intervue](https://github.com/LalitWagh34/intervue) | AI-powered interview preparation with voice mock interviews, structured feedback, and real-time features. |
-| [ApplyTrack](https://github.com/LalitWagh34/ApplyTrack) | Job application tracker with Gmail synchronization and asynchronous processing. |
-| [HNSW Vector Search](https://github.com/LalitWagh34/HNSW-Vector-Search-Engine) | Approximate nearest-neighbor search engine with custom HNSW indexing. |
+---
 
 ### Currently Exploring
 
-- Machine learning and practical AI applications
-- Backend architecture and system design
-- Algorithms, performance, and reliable distributed systems
+- Machine Learning & Applied AI
+- System Design & Distributed Systems
+- Backend Performance & Reliability
 
 ### Connect
 
-I'm open to software engineering opportunities, collaborations, and interesting technical discussions.
+Open to software engineering opportunities, collaborations, and interesting conversations.
 
 **Email:** [lalitwagh2804@gmail.com](mailto:lalitwagh2804@gmail.com)
